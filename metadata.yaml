@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40636'
     url: http://www.gutenberg.org/2009/agents/40636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40464#The-Mystery-of-Lincoln-s-Inn
 gutenberg_issued: '2012-08-09'
 gutenberg_type: Text
 identifiers:
